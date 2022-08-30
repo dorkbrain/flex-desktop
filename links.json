@@ -3,6 +3,7 @@
   { "name": "EmbyStat",     "icon": "icons/embystat.png",       "url": "http://emby.dorkbrain.net:6555/" }, 
   { "name": "Plex",         "icon": "icons/plex.png",           "url": "https://app.plex.tv/web/app" }, 
   { "name": "REstream",     "icon": "icons/live.png",           "url": "https://restream.portal.dorkbrain.net/" }, 
+  { "name": "WebShare",     "icon": "icons/share.png",          "url": "http://webshare.dorkbrain.net/" }, 
   { "name": "Proxmox",      "icon": "icons/proxmox.svg",        "url": "https://zero.dorkbrain.net:8006/" }, 
   { "name": "OMV: Pandora", "icon": "icons/openmediavault.svg", "url": "http://pandora.dorkbrain.net/" }, 
   { "name": "LibreNMS",     "icon": "icons/librenms.png",       "url": "https://libre.portal.dorkbrain.net/" }, 
