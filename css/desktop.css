@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  background-color: black;
+  background-image: url("../wallpaper/glados.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.flex-container {
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 90vh;
+}
+
+.flex-container > div {
+  width: 80px;
+  height: 80px;
+  font-size: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.icon-image {
+  width: 48px;
+  height: 48px; 
+  cursor: pointer;
+}
+
+.icon-text {
+  cursor: pointer;
+}
